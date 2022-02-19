@@ -1,2 +1,2 @@
 # Hyperopt_LightGradientBoostingMachine
-Tuning LGBM with Hyperopt
+Hyperparameter Tuning LGBM with Hyperopt
